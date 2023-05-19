@@ -1,0 +1,119 @@
+body{
+  margin : 0px;
+  padding : 0px;
+}
+.fheader
+{
+  display : flex;
+  padding-inline : 20px;
+  background-color : #2d0d65;
+  justify-content : center;
+  align-items : center;
+}
+
+.header-text
+{
+  height : 80px;
+  display : flex;
+  align-items : center;
+  width : 100%;
+  justify-content: center;
+
+}
+.header-link
+{
+  color : #a459eb;
+  text-decoration : none;
+  font-weight : 600;
+}
+.text1
+{
+  font-size : 16px;
+  font-family: Montserrat, Helvetica, Arial, sans-serif;
+  letter-spacing : -1px;
+  font-weight : 600;
+  margin-left : 8px;
+}
+.text-icon
+{
+  display : flex;
+  align-items : center;
+  width : 100%;
+  justify-content : center;
+}
+.section-1
+{
+  background : linear-gradient(to right,#ab5ff9,#7946de);
+  height :920px;
+  width : 100%;
+ 
+}
+
+.link-light
+{
+  text-decoration: none;
+}
+
+.sec2-inner-sec
+{
+  display : flex;
+  padding-inline : 20px;
+
+}
+.left-section
+{
+  flex : 1;
+  padding-top: 229px;
+
+}
+.right-section 
+{
+
+  padding-block : 10px;
+  flex : 1;
+}
+.icon1
+{
+  height : 40px;
+  margin-right : 10px;
+}
+.sec1-text
+{
+  max-width: 500px;
+  font-size: 20px;
+  margin-block : 40px;
+}
+.join-text
+{
+  margin-bottom : 20px;
+}
+
+.text-center
+{
+  padding-inline : 56px;
+  padding-block : 150px;
+}
+.get-button
+{
+  color : #7946de
+}
+.navbar
+{
+  padding-top : 23px;
+ 
+}
+.nav-sec
+{
+  padding-inline: 60px;
+}
+
+.nav-menu
+{
+  column-gap : 20px;
+}
+
+
+
+.x-mark:hover{
+  cursor : pointer;
+}
